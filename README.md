@@ -48,8 +48,7 @@ Most of my recent work lives in private repositories: CRM, personal finance trac
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=serhattomak&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhattomak&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhattomak&layout=compact&theme=transparent&hide_border=true&langs_count=7" alt="Most used languages" />
 
 </div>
 
